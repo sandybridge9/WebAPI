@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Destroyer3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Destroyer3\\.nuget\\packages"
+    ]
+  }
+}
